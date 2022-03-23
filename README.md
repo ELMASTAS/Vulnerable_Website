@@ -1,6 +1,7 @@
 # Vulnerable_Website
 Vulnerable website, sql ,xss, file upload, common injection 
-Web uygulama güvenliği  alanında kendini geliştirmek isteyen pentesterlar ve güvenlik ile uğraşan kimseler için PHP ile oluşturulmuş içinde belli web zafiyetlerini barındıran bir zafiyetli web uygulamasıdır.
+Web uygulama güvenliği alanında kendini geliştirmek isteyen Güvenlik Araştırmacıları için PHP ile oluşturulmuş içinde belli web zafiyetlerini barındıran zafiyetli web uygulamasıdır.
+
 
 Barındırdığı Zafiyetler:
 
