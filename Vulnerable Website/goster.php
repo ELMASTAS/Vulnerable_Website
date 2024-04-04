@@ -10,7 +10,6 @@
 </style>
 </head
 <body>
-
 <?php
 //veritabanı bağlantısını yaptım 
 $servername = "localhost";

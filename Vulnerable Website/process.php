@@ -18,7 +18,7 @@ require_once('config.php');
 			if(mysqli_fetch_assoc($result))
 			{
 				$_SESSION['user']=$_POST['txt_uname']; 
-				header("location:anasayfa.php");
+				header("location:index.php");
 			}
 			else
 			{
