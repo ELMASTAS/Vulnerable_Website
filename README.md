@@ -21,3 +21,6 @@ XSS (Cross-Site Scripting) Reflected: Yansıtılan XSS saldırılarını simüle
 XSS Stored: Saklanan XSS saldırılarını simüle eder. Bu zafiyet, uygulama üzerindeki kullanıcı girişlerinin veritabanında saklanması sonucu kullanıcıların bu verileri görüntülerken kötü niyetli kodların çalıştırılmasına olanak tanır.
 
 Vulnerable Website, her bir zafiyet türünü anlamak ve nasıl savunulabileceğini öğrenmek isteyen güvenlik araştırmacılarına gerçek dünya deneyimleri sunar.
+
+
+![image](https://github.com/ELMASTAS/Vulnerable_Website/assets/20702194/90347233-00df-46b1-859c-09bcda509808)
